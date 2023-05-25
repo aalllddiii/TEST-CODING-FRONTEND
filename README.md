@@ -1,3 +1,17 @@
+• Nama : Aldi Cahya Ramadhani 
+
+• Email : aldicahyar@gmail.com
+
+Cara menjalankan apps website :
+
+1. Buka software visual studio code
+2. Nyalakan apache (xampp)
+3. Download projek tersebut di github
+4. Setelah download, simpan file projek tersebut di folder “htdocs” di xampp
+5. Buka file projek tersebut ke visual studio code
+6. Setelah itu tekan “run” akan muncul pilihan “start debugging” dan “run without debugging”
+7. Tekan salah satu fitur “run” untuk menjalakan file projek tersebut
+
 Gambar 1 : bilangan-cacah
 ![1 bilangan-cacah](https://github.com/aalllddiii/TEST-CODING-FRONTEND/assets/105191333/27d21fdf-2a40-47e4-9bbf-fddbf09b5da0)
 
